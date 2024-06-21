@@ -1,4 +1,4 @@
-# hrsoftware
+# HR software
 A basic version
 
 
